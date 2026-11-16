@@ -1,0 +1,4 @@
+# The submission pipeline needs numpy only. Developed and run with Python 3.14.
+numpy==2.3.5
+# Only for scoring with evaluation/run_evaluation.py:
+pandas==2.3.3
